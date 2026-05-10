@@ -8,14 +8,6 @@ The study evaluates four ML classifiers — Logistic Regression, Decision Tree, 
 Compare individual ML models vs. ensemble techniques for stroke risk prediction.
 Identify the most accurate and reliable model using standard evaluation metrics.
 
-🧪 Models Compared
-Model                     Type 
-Logistic Regression       Individual
-Decision Tree             Individual
-Random Forest             Ensemble (Bagging)
-Gradient Boosting         Ensemble (Boosting)
-Voting Classifier         Ensemble (Soft Voting)
-
 🔬 Methodology
 Exploratory Data Analysis (EDA) — Distribution plots, correlation heatmap, class balance check.
 Data Preprocessing — Missing value imputation, StandardScaler for numerical features, OneHotEncoding for categorical features.
